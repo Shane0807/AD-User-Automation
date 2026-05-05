@@ -1,2 +1,2 @@
 # AD-User-Automation
-PowerShell script that automates account creation in local active directory
+Automated user onboarding process, reducing manual setup time and ensuring consistency across multiple schools
